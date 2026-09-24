@@ -14,3 +14,7 @@ Applied K-Means clustering on RFM (Recency, Frequency, Monetary) features to seg
 
 ## Tech Stack
 Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, Jupyter Notebook (via Google Colab)
+
+### Task 3 — Data Cleaning
+Cleaned a deliberately messy FIFA 21 player dataset — handled missing values, standardized inconsistent units (height/weight, currency shorthand), corrected data types, and documented every decision with a before/after summary.
+📁 [Task3-Data-Cleaning](./Task3-Data-Cleaning)
