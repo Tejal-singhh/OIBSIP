@@ -18,3 +18,7 @@ Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, Jupyter Notebook (via 
 ### Task 3 — Data Cleaning
 Cleaned a deliberately messy FIFA 21 player dataset — handled missing values, standardized inconsistent units (height/weight, currency shorthand), corrected data types, and documented every decision with a before/after summary.
 📁 [Task3-Data-Cleaning](./Task3-Data-Cleaning)
+
+### Task 4 — Sentiment Analysis
+Built and compared two text classification models (Naive Bayes, Logistic Regression) to classify tweet sentiment as Positive, Neutral, or Negative, using TF-IDF features and full NLP preprocessing.
+📁 [Task4-Sentiment-Analysis](./Task4-Sentiment-Analysis)
