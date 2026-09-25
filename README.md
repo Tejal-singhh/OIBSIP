@@ -22,3 +22,8 @@ Built and compared two text classification models (Naive Bayes, Logistic Regress
 
 ## Tech Stack
 Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, NLTK, Jupyter Notebook (via Google Colab)
+
+
+### Level 2 — Predicting House Prices with Linear Regression
+Built and evaluated a Linear Regression model (plus Ridge/Lasso comparison) to predict house prices from features like area, location, and condition. Diagnosed and explained a near-zero R² result through correlation analysis, residual plots, and coefficient interpretation.
+📁 [DataAnalytics-Level2-HousePricePrediction](./DataAnalytics-Level2-HousePricePrediction)
