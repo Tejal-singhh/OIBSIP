@@ -27,3 +27,7 @@ Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, NLTK, Jupyter Notebook
 ### Level 2 — Predicting House Prices with Linear Regression
 Built and evaluated a Linear Regression model (plus Ridge/Lasso comparison) to predict house prices from features like area, location, and condition. Diagnosed and explained a near-zero R² result through correlation analysis, residual plots, and coefficient interpretation.
 📁 [DataAnalytics-Level2-HousePricePrediction](./DataAnalytics-Level2-HousePricePrediction)
+
+### Level 2 — Wine Quality Prediction
+Trained and compared three classifiers (Random Forest, SGD, SVC) to predict wine quality groups from physicochemical properties, handling class imbalance through quality binning, stratified splitting and class weighting. Includes feature importance analysis and a model comparison table.
+📁 [DataAnalytics-Level2-WineQualityPrediction](./DataAnalytics-Level2-WineQualityPrediction)
